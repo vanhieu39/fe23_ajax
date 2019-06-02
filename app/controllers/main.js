@@ -6,6 +6,9 @@ $(document).ready(function() {
   function test(){
 
   };
+  function taoBranchGit_02_06_2019(){
+    
+  }
 
   function layDanhSachNguoiDung() {
     danhSachNguoiDung
