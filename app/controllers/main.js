@@ -8,8 +8,11 @@ $(document).ready(function() {
   };
   function taoBranchGit_02_06_2019(){
     
-  }
+  };
+  function timkiem(){
 
+  };
+  
   function layDanhSachNguoiDung() {
     danhSachNguoiDung
       .layDanhSachNguoiDung()
