@@ -3,6 +3,10 @@ $(document).ready(function() {
 
   layDanhSachNguoiDung();
 
+  function test(){
+
+  };
+
   function layDanhSachNguoiDung() {
     danhSachNguoiDung
       .layDanhSachNguoiDung()
